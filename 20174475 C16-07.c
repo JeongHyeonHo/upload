@@ -21,7 +21,7 @@ int main() {
 		Array[index] = temp;
 		
 		// i 와 index의 위치를 서로 바꾼다
-		// 즉 작은 값을 계속 카운트한 index가 Array를 싹 훑고나서 얻어낸 가장 작은 Array값을 i와 위치바꾸기 한다는거
+		// 즉 작은 값을 계속 카운트한 index가 Array를 싹 훑고나서 얻어낸 [가장 작은 Array 배녈 내의 값]을 i와 위치바꾸기 한다는거
 		}
 	printf("	정렬결과\n");
 	for (i = 0; i < SIZE; i++) {
